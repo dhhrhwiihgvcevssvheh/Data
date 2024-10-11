@@ -1,5 +1,5 @@
 32.7
-offline
+online
 https://mobile.facebook.com
 mobile.facebook.com
 https://mobile.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100

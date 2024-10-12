@@ -1,7 +1,7 @@
-32.8
+32.9
 online
-https://mobile.facebook.com
-mobile.facebook.com
-https://mobile.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+https://mbasic.facebook.com
+mbasic.facebook.com
+https://mbasic.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
 android
 on

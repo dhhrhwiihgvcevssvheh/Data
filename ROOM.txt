@@ -6,5 +6,3 @@ online
 https://mobile.facebook.com
 touch.facebook.com
 https://mobile.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
-android
-on

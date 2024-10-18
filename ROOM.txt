@@ -1,8 +1,8 @@
 [FBAN/FB4A;FBAV/76.0.0.24.67;FBBV/29581438;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/CLARO BR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G531H;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=2.0,width=720,height=1204};FBLC/en_US;FBCR/LoneStar;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-J8;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/324.0.0.48.120;FBBV/300480914;FBDM/{density=2.0,width=720,height=1448};FBLC/en_US;FBRV/301461075;FBCR/O2.CZ;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2193;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-33.8
+33.9
 online
-https://mobile.facebook.com
-touch.facebook.com
-https://mobile.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+https://mbasic.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8
+mbasic.facebook.com
+https://mbasic.facebook.com

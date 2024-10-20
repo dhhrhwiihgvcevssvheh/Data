@@ -1,10 +1,10 @@
-[FBAN/FB4A;FBAV/75.0.0.23.69;FBBV/29142808;FBDM/{density=1.0,width=600,height=1024};FBLC/en_US;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T210R;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/MPT;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/1201;FBSV/5.1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/355.0.0.21.108;FBBV/352948159;FBDM/{density=3.0,width=1080,height=2153};FBLC/en_US;FBRV/353680385;FBCR/MegaFon;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2001;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/MTN NG;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-L8Plus;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-34.2
+[FBAN/FB4A;FBAV/279.0.0.43.120;FBBV/231021068;FBDM/{density=3.0,width=1080,height=2141};FBLC/en_US;FBRV/0;FBCR/Vodafone IN;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1907;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/67.0.0.21.154;FBBV/24782425;FBDM/{density=1.5,width=540,height=960};FBLC/fr_FR;FBCR/Orange;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G530H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/274.0.0.46.119;FBBV/219237439;FBDM/{density=1.7,width=720,height=1469};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1911;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/167.0.0.33.94;FBBV/101783969;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBRV/0;FBCR/StarHub Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A37f;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+34.3
 online
-touch.facebook.com
+mbasic.facebook.com
 p.facebook.com
 mobile.facebook.com
-mbasic.facebook.com
+free.facebook.com

@@ -1,10 +1,10 @@
-[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880455;FBDM/{density=2.0,width=720,height=1280};FBLC/es_LA;FBCR/Boost Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SPH-L710T;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880433;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/null;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9195;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/274.0.0.46.119;FBBV/219237478;FBDM/{density=2.625,width=1080,height=2042};FBLC/en_US;FBRV/221258992;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G973U;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/317.0.0.51.119;FBBV/288708667;FBDM/{density=2.75,width=1080,height=2130};FBLC/cs_CZ;FBRV/289519067;FBCR/T-Mobile CZ;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8T;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
-34.9
+35.0
 online
 mbasic.facebook.com
 p.facebook.com
 mobile.facebook.com
-[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880433;FBDM/{density=1.5,width=480,height=800};FBLC/es_LA;FBCR/Movistar;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G316M;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540788;FBDM/{density=3.0,width=1080,height=2020};FBLC/en_US;FBRV/186600517;FBCR/Verizon ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G970U;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]

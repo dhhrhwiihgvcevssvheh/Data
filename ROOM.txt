@@ -2,7 +2,7 @@
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/298.0.0.46.116;FBBV/259886982;FBDM/{density=1.5,width=480,height=888};FBLC/en_US;FBRV/261724288;FBCR/Vodafone UA;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO BC2;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 mbasic.facebook.com
-35.4
+35.5
 online
 mbasic.facebook.com
 mobile.facebook.com

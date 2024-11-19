@@ -1,6 +1,6 @@
-[FBAN/FB4A;FBAV/75.0.0.23.69;FBBV/29142836;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/AREEBA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J200F;FBSV/5.1.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/365.0.0.30.112;FBBV/367653576;FBDM/{density=2.25,width=720,height=1400};FBLC/en_US;FBRV/369757394;FBCR/Vi India;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/381.0.0.29.105;FBBV/392504981;FBDM/{density=2.625,width=1080,height=1920};FBLC/ru_RU;FBRV/393296559;FBCR/KYIVSTAR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J730FM;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/196.0.0.63;FBBV/364181765;FBDM/{density=2.25,width=720,height=1400};FBLC/en_Qaau_US;FBRV/450082065 ;FBCR/Vi India;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=2.0,width=720,height=1204};FBLC/en_US;FBCR/LoneStar;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-J8;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 mbasic.facebook.com
-39.4
+39.5
 online

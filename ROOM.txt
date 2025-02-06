@@ -2,5 +2,5 @@
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/399.0.0.24.93;FBBV/440587317;FBDM/{density=2.0,width=720,height=1440};FBLC/id_Qaau_ID;FBRV/444131581;FBCR/XL Axiata;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X653C;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 mbasic.facebook.com
-51.1
+51.0
 online 

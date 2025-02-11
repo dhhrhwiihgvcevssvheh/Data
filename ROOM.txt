@@ -1,6 +1,10 @@
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=4.0,width=1440,height=2560};FBLC/sv_SE;FBCR/Telia;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G925F;FBSV/6.0.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/63.0.0.37.81;FBBV/21778670;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/MPT;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/1201;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129304;FBDM/{density=3.0,width=1080,height=2016};FBLC/en_US;FBRV/227278404;FBCR/U.S. Cellular;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto Z3 Play;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+touch.facebook.com
+mbasic.facebook.com
+p.facebook.com
 mbasic.facebook.com
 51.8
 online 

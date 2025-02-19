@@ -1,6 +1,6 @@
-[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957701;FBDM/{density=3.5,width=1440,height=2792};FBLC/en_US;FBRV/333640481;FBCR/zain IQ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N950F;FBSV/9;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957732;FBDM/{density=3.0,width=1080,height=2158};FBLC/he_IL;FBRV/334133301;FBCR/we;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2170;FBSV/11;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957732;FBDM/{density=2.625,width=1080,height=2131};FBLC/ru_RU;FBRV/335613337;FBCR/MTS RUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505FN;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/329.0.0.29.120;FBBV/307279835;FBDM/{density=2.8125,width=1080,height=2272};FBLC/ru_RU;FBRV/307753865;FBCR/Beeline;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A725F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
 mbasic.facebook.com
 touch.facebook.com
-53.1
+53.2
 online

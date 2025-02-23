@@ -1,5 +1,5 @@
 [FBAN/FB4A;FBAV/310.0.0.50.118;FBBV/278533704;FBDM/{density=2.625,width=1080,height=2131};FBLC/de_DE;FBRV/280462961;FBCR/vodafone.de;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505FN;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/325.0.0.36.170;FBBV/301621682;FBDM/{density=2.75,width=1080,height=2130};FBLC/cs_CZ;FBRV/302401544;FBCR/Vodafone CZ;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8T;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
 free.facebook.com
 mbasic.facebook.com
 54.0

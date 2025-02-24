@@ -1,6 +1,6 @@
 [FBAN/FB4A;FBAV/381.0.0.29.105;FBBV/392504981;FBDM/{density=3.375,width=1080,height=1920};FBLC/ru_RU;FBRV/394709637;FBCR/LMT;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J730F;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 FBAN/FB4A;FBAV/381.0.0.29.105;FBBV/392505005;FBDM/{density=2.0,width=720,height=1449};FBLC/uk_UA;FBRV/394465687;FBCR/Vodafone UA;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2006C3MNG;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-free.facebook.com
+adsmanager.facebook.com
 mbasic.facebook.com
 54.2
 online

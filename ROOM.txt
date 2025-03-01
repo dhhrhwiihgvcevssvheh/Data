@@ -1,6 +1,6 @@
 [FBAN/FB4A;FBAV/290.0.0.44.121;FBBV/248232031;FBDM/{density=2.625,width=1080,height=2042};FBLC/pt_BR;FBRV/249097555;FBCR/Claro BR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G973F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/290.0.0.44.121;FBBV/248232031;FBDM/{density=3.0,width=1080,height=2016};FBLC/pt_BR;FBRV/249320213;FBCR/TIM;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(6) plus;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
-mobile.facebook.com
+x.facebook.com
 mbasic.facebook.com
 55.0
 online

@@ -1,6 +1,6 @@
 [FBAN/FB4A;FBAV/290.0.0.44.121;FBBV/248232031;FBDM/{density=2.625,width=1080,height=2198};FBLC/pt_BR;FBRV/249791297;FBCR/Oi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A705MN;FBSV/9;FBOP/19;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957732;FBDM/{density=3.0,width=1080,height=2158};FBLC/he_IL;FBRV/334133301;FBCR/we;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2170;FBSV/11;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
-free.facebook.com
+x.facebook.com
 mbasic.facebook.com
-55.1
+55.2
 online

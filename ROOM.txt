@@ -3,4 +3,4 @@
 touch.facebook.com
 mbasic.facebook.com
 56.7
-online
+offline

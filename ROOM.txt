@@ -4,4 +4,4 @@ mobile.facebook.com
 mbasic.facebook.com
 57.0
 Online
-RMX3823|13
+SM-A166B|14

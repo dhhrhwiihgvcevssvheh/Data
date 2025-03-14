@@ -1,6 +1,6 @@
 [FBAN/FB4A;FBAV/82.0.0.23.70;FBBV/32429824;FBDM/{density=1.5,width=800,height=480};FBLC/it_IT;FBCR/I WIND;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7580;FBSV/4.2.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/78.0.0.16.67;FBBV/30529816;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/MTN NG;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix_X521;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-mobile.facebook.com
+touch.facebook.com
 mbasic.facebook.com
 57.1
 Online

@@ -2,6 +2,6 @@
 [FBAN/FB4A;FBAV/78.0.0.16.67;FBBV/30529816;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/MTN NG;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix_X521;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 touch.facebook.com
 mbasic.facebook.com
-57.1
+57.2
 Online
-SM-A166B|14
+SM-A556V|14

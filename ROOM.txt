@@ -1,7 +1,7 @@
-[FBAN/FB4A;FBAV/83.0.0.20.71;FBBV/32723414;FBDM/{density=1.5,width=480,height=800};FBLC/ar_AR;FBCR/KOREK;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9060I;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/156.0.0.36.100;FBBV/88997452;FBDM/{density=2.0,width=720,height=1280};FBLC/pt_PT;FBRV/89153155;FBCR/altice MEO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J320F;FBSV/5.1.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/70.0.0.22.83;FBBV/26502156;FBDM/{density=1.0,width=1280,height=800};FBLC/fr_FR;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T530;FBSV/5.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 mobile.facebook.com
 mbasic.facebook.com
-57.0
+57.1
 Online
 SM-A166B|14

@@ -4,4 +4,4 @@ touch.facebook.com
 mbasic.facebook.com
 57.6
 Online
-SM-A556V|14
+SM-G980|10

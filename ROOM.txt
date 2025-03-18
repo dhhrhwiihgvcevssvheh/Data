@@ -1,6 +1,6 @@
-[FBAN/FB4A;FBAV/86.0.0.19.69;FBBV/34022659;FBDM/{density=1.5,width=540,height=960};FBLC/es_LA;FBCR/TELCEL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G531H;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/sv_SE;FBCR/Telia;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G900F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/155.0.0.36.96;FBBV/87995190;FBDM/{density=3.0,width=1080,height=1920};FBLC/pt_PT;FBRV/87995190;FBCR/NOS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935F;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570982;FBDM/{density=2.0,width=720,height=1280};FBLC/pt_BR;FBRV/85070460;FBCR/MOCHE;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 4X;FBSV/7.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 touch.facebook.com
 mbasic.facebook.com
-57.8
+57.9
 Online

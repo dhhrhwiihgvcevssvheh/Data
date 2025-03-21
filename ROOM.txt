@@ -1,5 +1,5 @@
 [FBAN/FB4A;FBAV/275.0.0.49.127;FBBV/221372569;FBDM/{density=2.0,width=720,height=1402};FBLC/en_US;FBRV/225615770;FBCR/Spectrum;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A102U;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/326.0.0.34.120;FBBV/303076497;FBDM/{density=2.0,width=720,height=1352};FBLC/en_US;FBRV/304627012;FBCR/airtel;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_X00RD;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 touch.facebook.com
 mbasic.facebook.com
 58.5

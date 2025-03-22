@@ -1,6 +1,6 @@
 [FBAN/FB4A;FBAV/64.0.0.51.76;FBBV/22596764;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/cricket;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SAMSUNG-SM-G530AZ;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957647;FBDM/{density=2.0,width=720,height=1456};FBLC/en_US;FBRV/333732671;FBCR/Tele2;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2180;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/70.0.0.22.83;FBBV/26502156;FBDM/{density=1.0,width=1280,height=800};FBLC/fr_FR;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T530;FBSV/5.0.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027763;FBDM/{density=2.625,width=1080,height=2069};FBLC/en_US;FBRV/209458419;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N975U;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
 mbasic.facebook.com
-58.6
+58.7
 Online

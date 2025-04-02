@@ -1,4 +1,4 @@
-[FBAN/FB4A;FBAV/347.0.0.28.237;FBBV/337279749;FBDM/{density=2.8125,width=1080,height=2033};FBLC/ru_RU;FBRV/337989149;FBCR/Beeline;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G973F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=2.0,width=720,height=1204};FBLC/en_US;FBCR/LoneStar;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-J8;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/320.0.0.34.118;FBBV/293906272;FBDM/{density=3.0,width=1080,height=2132};FBLC/ru_RU;FBRV/0;FBCR/Tele2;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1921;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=2.0,width=720,height=1204};FBLC/en_US;FBCR/LoneStar;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-J8;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]

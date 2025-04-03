@@ -3,6 +3,6 @@
 FBAN/FB4A;FBAV/279.0.0.43.120;FBBV/231021068;FBDM/{density=3.0,width=1080,height=2141};FBLC/en_US;FBRV/0;FBCR/Vodafone IN;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1907;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/283.0.0.31.121;FBBV/237966664;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/239808926;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5000;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
 mbasic.facebook.com
-60.9
+61.0
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 Online

@@ -5,4 +5,4 @@
 mbasic.facebook.com
 61.7
 [FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/sv_SE;FBCR/Telia;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G900F;FBSV/5.0;FBCA/armeabi-v7a:armeabi;]
-Online
+Offline

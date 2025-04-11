@@ -1,7 +1,7 @@
 [FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880455;FBDM/{density=2.0,width=720,height=1280};FBLC/es_LA;FBCR/Boost Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SPH-L710T;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880455;FBDM/{density=2.0,width=720,height=1280};FBLC/es_LA;FBCR/Boost Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SPH-L710T;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034615;FBDM/{density=1.5,width=480,height=800};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-Dalvik/2.1.2 (Linux; U; Android 12; S23Pro Build/PD2A.445766.283) [FBAN/FB4A;FBAV/91.0.0.4719;FBBV/4847351;FBDM/{density=2.6,width=720,height=1600};FBLC/ms_MY;FBRV/4847351;FBCR/BSNL;FBMF/Itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/S23Pro;FBSV/12;FBCA/armeabi:;]
+[FBAN/FB4A;FBAV/69.0.0.26.76;FBBV/25862460;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/AT&amp-T;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1021;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 mbasic.facebook.com
 62.8
 [FBAN/FB4A;FBAV/287.0.0.50.119;FBBV/243660883;FBDM/{density=3.375,width=2028,height=1080};FBLC/pt_BR;FBRV/0;FBCR/VIVO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N970F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]

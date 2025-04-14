@@ -1,9 +1,9 @@
-[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845985;FBDM/{density=1.5,width=540,height=960};FBLC/pt_PT;FBRV/97737839;FBCR/NOS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G531F;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/87.0.0.17.79;FBBV/34592777;FBDM/{density=1.5,width=540,height=960};FBLC/es_ES;FBCR/ENTEL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G531M;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636690;FBDM/{density=2.0,width=2560,height=1504};FBLC/da_DK;FBRV/208541728;FBCR/;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo YT-X703F;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=3.0,width=1080,height=1920};FBLC/pt_PT;FBRV/85070460;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A520F;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/245.0.0.39.118;FBBV/180475968;FBDM/{density=1.7,width=720,height=1280};FBLC/es_LA;FBRV/0;FB_FW/2;FBCR/UNEFON 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto C Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570975;FBDM/{density=1.0,width=768,height=1024};FBLC/pt_PT;FBRV/85070460;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T550;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 mbasic.facebook.com
 63.3
-[FBAN/FB4A;FBAV/152.0.0.42.136;FBBV/83110608;FBDM/{density=1.5,width=540,height=960};FBLC/pt_PT;FBRV/84252196;FBCR/altice MEO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G531F;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880433;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9195;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/177.0.0.49.105;FBBV/114406492;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/0;FBCR/AIS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N920C;FBSV/7.0;FBBK/1;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 Online

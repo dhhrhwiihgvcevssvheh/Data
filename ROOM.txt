@@ -1,7 +1,7 @@
 [FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570978;FBDM/{density=1.5,width=540,height=960};FBLC/en_GB;FBRV/85070460;FBCR/altice MEO;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A300FU;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027753;FBDM/{density=2.0,width=720,height=1412};FBLC/en_US;FBRV/0;FBCR/Jio 4G;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX1945;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570984;FBDM/{density=3.0,width=1080,height=1920};FBLC/pt_PT;FBRV/85070460;FBCR/robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A520F;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/153.0.0.54.88;FBBV/84570975;FBDM/{density=1.0,width=768,height=1024};FBLC/pt_PT;FBRV/85070460;FBCR/;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-T550;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=2.0,width=720,height=1204};FBLC/en_US;FBCR/LoneStar;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-J8;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 mobile.facebook.com
 63.7
 [FBAN/FB4A;FBAV/169.0.0.46.94;FBBV/104748689;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/104800574;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SAMSUNG-SM-N920A;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]

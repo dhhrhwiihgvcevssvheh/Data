@@ -1,1 +1,1 @@
-hhh
+[FBAN/FB4A;FBAV/83.0.0.0.39;FBBV/32101960;FBDM/{density=1.5,width=480,height=854};FBLC/es_LA;FBCR/Movistar;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI Y520-U33;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]

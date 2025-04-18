@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/151.0.0.44.205;FBBV/81374841;FBDM/{density=1.5,width=480,height=854};FBLC/pt_PT;FBCR/altice MEO;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_X00BD;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/298.0.0.46.116;FBBV/259887012;FBDM/{density=2.625,width=1080,height=2131};FBLC/pt_BR;FBRV/261070278;FBCR/Vivo;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505GT;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]

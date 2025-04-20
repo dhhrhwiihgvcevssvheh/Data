@@ -1,1 +1,2 @@
+[FBAN/FB4A;FBAV/69.0.0.26.76;FBBV/25862460;FBDM/{density=1.5,width=540,height=888};FBLC/en_US;FBCR/AT&amp-T;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1021;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 

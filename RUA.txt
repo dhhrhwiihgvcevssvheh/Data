@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845992;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A500H;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]

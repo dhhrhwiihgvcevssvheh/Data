@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/396.1.0.28.104;FBBV/429651049;FBDM/{density=0.75,width=360,height=480};FBLC/en_US;FBCR/Viettel Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935FD;FBSV/7.1.2;FBOP/1;FBCA/x86:armeabi-v7a;]
+[FBAN/FB4A;FBAV/271.0.0.55.109;FBBV/215365690;FBDM/{density=3.0,width=1080,height=2208};FBLC/fr_FR;FBCR/inwi;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1989;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]

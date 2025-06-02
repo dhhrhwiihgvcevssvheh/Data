@@ -1,2 +1,1 @@
-
 [FBAN/FB4A;FBAV/269.1.0.50.641;FBDM/{density=3.53,width=1406,height=3102};FBLC/en_GB;FBCR/MetroPCS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S928U;FBSV/14.0.2;FBOP/2;FBCA/x86_64:;]

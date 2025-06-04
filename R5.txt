@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/264.6.79.204;FBDM/{density=3.78,width=1341,height=3051};FBLC/en_GB;FBCR/US Cellular;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S918U;FBSV/14.0.0;FBOP/2;FBCA/arm64-v8a;]
+[FBAN/FB4A;FBAV/265.2.55.617;FBDM/{density=3.97,width=1443,height=3094};FBLC/bn_BD;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S918U;FBSV/14.0.0;FBOP/2;FBCA/arm64-v8a;]

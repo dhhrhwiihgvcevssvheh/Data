@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972604;FBDM/{density=3.375,width=1080,height=2182};FBLC/ru_RU;FBCR/activ;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH2021;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972598;FBDM/{density=2.625,width=1080,height=2182};FBLC/en_US;FB_FW/2;FBCR/Verizon Wireless;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N981U;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]

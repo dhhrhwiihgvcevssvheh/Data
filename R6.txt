@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/349.0.0.39.470;FBBV/344633538;FBDM/{density=1.875,width=720,height=1465};FBLC/ru_RU;FBCR/GOLAN T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A125F;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/400.0.0.37.76;FBBV/443235170;FBDM/{density=2.8125,width=1080,height=2106};FBLC/en_US;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-S908U;FBSV/13;FBOP/1;FBCA/arm64-v8a:;]

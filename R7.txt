@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972594;FBDM/{density=1.75,width=720,height=1471};FBLC/en_US;FBCR/Metro by T-Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A025U;FBSV/11;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681957;FBDM/{density=3.5,width=1440,height=2759};FBLC/en_US;FBCR/Verizon;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N976V;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]

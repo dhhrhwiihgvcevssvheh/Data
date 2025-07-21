@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/327.0.0.33.120;FBBV/304400802;FBDM/{density=2.0,width=720,height=1448};FBLC/ru_RU;FBCR/MTS RUS;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX3201;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/150.0.0.38.138;FBBV/80156280;FBDM/{density=2.0,width=720,height=1280};FBLC/pt_PT;FBCR/vodafone P;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J500F;FBSV/6.0.1;FBOP/19;FBCA/armeabi-v7a:armeabi;]

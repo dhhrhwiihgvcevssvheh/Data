@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/349723349;FBDM/{density=2.0,width=720,height=1480};FBLC/en_US;FBCR/Jazz;FBMF/TECNO MOBILE LIMITED;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO LC8;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681891;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/VerizonWireless;FBMF/samsung;FBBD/Verizon;FBPN/com.facebook.katana;FBDV/SM-G935V;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]

@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/368.0.0.24.108;FBBV/371897983;FBDM/{density=2.0,width=720,height=1280};FBLC/ru_RU;FBCR/AQUAFON;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J330F;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/256.0.0.39.117;FBBV/196542486;FBDM/{density=1.75,width=720,height=1396};FBLC/ro_RO;FBCR/BASE | Lycamobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J415FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]

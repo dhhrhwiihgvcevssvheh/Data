@@ -1,1 +1,1 @@
-touch.facebook.com
+mbasic.prod.facebook.com

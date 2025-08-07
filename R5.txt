@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129304;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBCR/Airtel-Stay Home | airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G610F;FBSV/8.1.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/355.0.0.21.108;FBBV/352948159;FBDM/{density=2.8125,width=1080,height=2177};FBLC/ru_RU;FBRV/0;FBCR/Beeline;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A525F;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]

@@ -1,1 +1,1 @@
-Chrome/68.0.3440.91 Mobile Safari/537.36 [FBAN/FB4A;FBAV/198.0.0.53.101;FBBV/131501813;FBDM/{density=2. 0,width=720,height=1280};FBLC/en_US;FBRV/0;FB_FW/2;FBCR/Boost Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FB DV/SM-J337P;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/261.0.0.52.126;FBBV/202681576;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G892A;FBSV/9;FBOP/19;FBCA/arm64-v8a:;]

@@ -1,2 +1,2 @@
 
-[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629362;FBDM/{density=2.25,width=720,height=1372};FBLC/it_IT;FBCR/PosteMobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J600FN;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681886;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N920T;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]

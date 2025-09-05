@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/272.0.0.50.125;FBBV/216845518;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935P;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/278.0.0.51.119;FBBV/229281745;FBDM/{density=2.0,width=720,height=1384};FBLC/en_US;FBCR/MTNSA-Take Care Mzansi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J600F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]

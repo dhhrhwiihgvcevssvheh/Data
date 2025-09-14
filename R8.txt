@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/329.0.0.29.120;FBBV/307279834;FBDM/{density=1.75,width=720,height=1466};FBLC/cs_CZ;FBCR/Vodafone CZ;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(20);FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/367.0.0.24.107;FBBV/370253085;FBDM/{density=3.0,width=1080,height=2401};FBLC/en_Qaau_GB;FBCR/Circles;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-F700F;FBSV/10;FBBK/1;FBOP/19;FBCA/arm64-v8a:;]

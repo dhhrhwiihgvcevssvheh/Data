@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/376.0.0.12.108;FBBV/383919098;FBDM/{density=2.625,width=1080,height=2186};FBLC/ru_RU;FBCR/GEO-GEOCELL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/268.0.0.7.121;FBBV/210375804;FBDM/{density=2.625,width=1080,height=2069};FBLC/en_US;FBCR/Sprint;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-N975U;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]

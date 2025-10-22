@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/303.0.0.30.122;FBBV/269803889;FBDM/{density=3.0,width=1080,height=2076};FBLC/cs_CZ;FBCR/T-Mobile CZ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G960F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/311.0.0.44.117;FBBV/280307956;FBDM/{density=2.625,width=1080,height=2042};FBLC/de_DE;FBCR/vodafone.de;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G973F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]

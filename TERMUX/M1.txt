@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 14; SM-S926B Build/UP1A.231005.007) [FBAN/Orca-Android;FBAV/555.0.0.56.66;FBPN/com.facebook.orca;FBLC/en_US;FBBV/924637909;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBDV/SM-S926B;FBSV/14;FBCA/arm64-v8a;FBDM/{density=2.0,width=720,height=1280};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/555.0.0.56.66;FBPN/com.facebook.orca;FBLC/en_US;FBBV/924637909;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBDV/SM-S926B;FBSV/14;FBCA/arm64-v8a;FBDM/{density=2.0,width=720,height=1280};FB_FW/1;]

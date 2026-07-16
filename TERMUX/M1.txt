@@ -1,1 +1,4 @@
-
+[FBAN/Orca-Android;FBAV/555.0.0.56.66;FBPN/com.facebook.orca;FBLC/en_U
+S;FBBV/924637909;FBCR/Banglalink;FBMF/samsung;FBBD/samsung;FBDV/SM-A34
+6B;FBSV/13;FBCA/arm64-v8a;FBDM/{density=3.0,width=1080,height=1920};FB
+_FW/1;]

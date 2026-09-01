@@ -14,7 +14,8 @@ trial:
 -------------------------------------------------------------------
 Pc Paid:
 5B0B7A95D07FC9E4B4B2E130FC9243CE2931911BFA209A4FB0C2B5EE5EB8802C
-1 September zarif (due)
+1 Octaber zarif (due)
 C0EBE8CF6BEAAC78F125371DC4DC2C76836C993565827DB8B22E4D0D1772DE8C
-1 September maruf (due)
-
+1 Octaber maruf (due)
+1A38C7F10D31F84B7B53DE10489A19216D38AD7EF133D758F9018314EDC97437
+8 October fahim (due)

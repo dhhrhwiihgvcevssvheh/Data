@@ -1,13 +1,6 @@
 {
     "active_keys": [
         {
-            "key": "666666666666666",
-            "name": "HERON",
-            "plan": "1 Month",
-            "approved_date": "2026-11-13",
-            "expiry_date": "2026-12-13"
-        },
-        {
             "key": "ewfwsfw5tr4 wgwsgwegergegre",
             "name": "radu",
             "plan": "Trial (3 Days)",

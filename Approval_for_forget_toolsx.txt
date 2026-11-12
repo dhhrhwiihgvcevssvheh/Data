@@ -1,12 +1,4 @@
 {
-    "active_keys": [
-        {
-            "key": "ewfwsfw5tr4 wgwsgwegergegre",
-            "name": "radu",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-13",
-            "expiry_date": "2026-11-16"
-        }
-    ],
+    "active_keys": [],
     "expired_history": {}
 }

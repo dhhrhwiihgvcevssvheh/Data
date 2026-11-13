@@ -1,13 +1,6 @@
 {
     "active_keys": [
         {
-            "key": "D2C0EADB13FC66A917B4DA610F9FE1F758B380490E3793700E23B8DE397FF320",
-            "name": "fahim vai",
-            "plan": "Lifetime",
-            "approved_date": "2026-11-13",
-            "expiry_date": "Lifetime"
-        },
-        {
             "key": "C9BB5E864D70A981C3DC35CF9F1155B06D96216862298A83D0ECF40611C1F462",
             "name": "shanto",
             "plan": "Lifetime",

@@ -36,13 +36,6 @@
             "expiry_date": "Lifetime"
         },
         {
-            "key": "34D05D32DB967595FA97BBD14090B23129DBD2922E6F98545D68456D1B6487BE",
-            "name": "mritunjoy",
-            "plan": "Lifetime",
-            "approved_date": "2026-11-13",
-            "expiry_date": "Lifetime"
-        },
-        {
             "key": "FD7F09D592249ED36B92408309CD2DFA0D711A8B45E752D2006504791855E57C",
             "name": "sagor howlader",
             "plan": "Lifetime",

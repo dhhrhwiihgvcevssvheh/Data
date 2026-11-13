@@ -1,13 +1,6 @@
 {
     "active_keys": [
         {
-            "key": "1F392E8D400068CE87349274C4C470F242E163FC081D3283A8202F638C87189E",
-            "name": "@STUSAIFUL2 SAIFUL",
-            "plan": "Lifetime",
-            "approved_date": "2026-11-13",
-            "expiry_date": "Lifetime"
-        },
-        {
             "key": "1FFBE22F09EF73672B3D1DC940E9D2B360901A86941FBDD1F5BA3417A2E70B3E",
             "name": "@charly32476",
             "plan": "Lifetime",

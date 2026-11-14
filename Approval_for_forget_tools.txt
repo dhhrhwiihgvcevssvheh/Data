@@ -531,21 +531,9 @@
             "plan": "1 Month",
             "approved_date": "2026-10-14",
             "expiry_date": "2026-11-14"
-        },
-        {
-            "key": "9CEE145FC667FBECAE2863232854F850A0F5076EF0245DB337E0DAD3A6282B71",
-            "name": "sadi k (due)",
-            "plan": "1 Month",
-            "approved_date": "2026-10-13",
-            "expiry_date": "2026-11-13"
-        },
-        {
-            "key": "EAA041C11A22183EC7E4605FDB4E3730622BC16536FA8B0804978DE6E340CA33",
-            "name": "saikot",
-            "plan": "1 Month",
-            "approved_date": "2026-10-13",
-            "expiry_date": "2026-11-13"
         }
     ],
-    "expired_history": {}
+    "expired_history": {
+        "2026-11-13": 2
+    }
 }

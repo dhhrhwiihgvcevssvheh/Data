@@ -421,13 +421,6 @@
             "expiry_date": "2026-11-25"
         },
         {
-            "key": "94C0619F0F2C2CDCA23612035AE104EA21EFA8951D0B55F9290635EB0F34D0D1",
-            "name": "sadik (due)",
-            "plan": "1 Month",
-            "approved_date": "2026-10-25",
-            "expiry_date": "2026-11-25"
-        },
-        {
             "key": "06C0A38204B41DEF47BD875CEF6C6F0A5A9A0B62A684FAC5BA5421720D1C258E",
             "name": "rohan",
             "plan": "1 Month",

@@ -505,27 +505,6 @@
             "expiry_date": "2026-11-18"
         },
         {
-            "key": "F9B6719558AC9F02476309C930606CF5CFB561E573BFA6DA5E20835E2F95210C",
-            "name": "ruma",
-            "plan": "1 Month",
-            "approved_date": "2026-10-14",
-            "expiry_date": "2026-11-14"
-        },
-        {
-            "key": "04F356AF2BD010937F204A178734FF1830E86F3CE88FB9BB8A03B15ACF8FFF60",
-            "name": "himel",
-            "plan": "1 Month",
-            "approved_date": "2026-10-14",
-            "expiry_date": "2026-11-14"
-        },
-        {
-            "key": "6A3ABD1C3C02D379AB8E8431931CB84D54FF2E5289C126C6A49B875EFD953510",
-            "name": "saiful",
-            "plan": "1 Month",
-            "approved_date": "2026-10-14",
-            "expiry_date": "2026-11-14"
-        },
-        {
             "key": "E30ED570EE7A9E3DDF995454ECE205F5C0CDE28B48A5B218A8BAE11C9E19404D",
             "name": "Erfanuir Rahman Shakib",
             "plan": "1 Month",
@@ -541,6 +520,7 @@
         }
     ],
     "expired_history": {
-        "2026-11-13": 2
+        "2026-11-13": 2,
+        "2026-11-14": 3
     }
 }

@@ -503,6 +503,13 @@
             "plan": "1 Month",
             "approved_date": "2026-11-15",
             "expiry_date": "2026-12-15"
+        },
+        {
+            "key": "AFD7FF83487DE5D56046203F0CF31A9C90104D720B68FE0A07955E8A8972A289",
+            "name": "Leave lover",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-16",
+            "expiry_date": "2026-11-19"
         }
     ],
     "expired_history": {

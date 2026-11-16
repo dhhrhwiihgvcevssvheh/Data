@@ -538,6 +538,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-16",
             "expiry_date": "2026-11-19"
+        },
+        {
+            "key": "67255DE4279F7524900CE999AFD5D3CD5065D0124189076161090892FBD82281",
+            "name": "Miniex",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-16",
+            "expiry_date": "2026-11-19"
         }
     ],
     "expired_history": {

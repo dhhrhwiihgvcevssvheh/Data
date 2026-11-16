@@ -559,13 +559,6 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-16",
             "expiry_date": "2026-11-19"
-        },
-        {
-            "key": "20637A52D955BF22764C7974AA7D8AB9B621B4592E757AAC831FFF47A22CBEA0",
-            "name": "Jakir",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-16",
-            "expiry_date": "2026-11-19"
         }
     ],
     "expired_history": {

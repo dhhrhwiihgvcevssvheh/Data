@@ -365,13 +365,6 @@
             "expiry_date": "2026-11-27"
         },
         {
-            "key": "8BE56C0BBA03C92AC8C3C4474123F754EDB1AD15EB632848A5AA81DDB82332ED",
-            "name": "smkhan (due)",
-            "plan": "1 Month",
-            "approved_date": "2026-10-26",
-            "expiry_date": "2026-11-26"
-        },
-        {
             "key": "991E2DA658E2019C76FFE0726EB91C4BA929AFC574A5FC5299037E7239B098CC",
             "name": "munjurul",
             "plan": "1 Month",

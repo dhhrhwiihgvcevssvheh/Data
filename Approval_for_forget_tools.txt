@@ -162,13 +162,6 @@
             "expiry_date": "2026-11-29"
         },
         {
-            "key": "103311033121656092TCODEW1SMPPu0_a331",
-            "name": "@jamil7276272",
-            "plan": "1 Month",
-            "approved_date": "2026-10-15",
-            "expiry_date": "2026-11-15"
-        },
-        {
             "key": "103131031365648003NUJEUT1SMPPu0_a313",
             "name": "jakaria",
             "plan": "1 Month",
@@ -188,13 +181,6 @@
             "plan": "1 Month",
             "approved_date": "2026-11-07",
             "expiry_date": "2026-12-07"
-        },
-        {
-            "key": "103811038194008002PESNUS1SMPPu0_a381",
-            "name": "Trial User",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-12",
-            "expiry_date": "2026-11-15"
         },
         {
             "key": "10346103468124307LUJEUT1SMPPu0_a346",
@@ -528,6 +514,7 @@
     ],
     "expired_history": {
         "2026-11-13": 2,
-        "2026-11-14": 3
+        "2026-11-14": 3,
+        "2026-11-15": 2
     }
 }

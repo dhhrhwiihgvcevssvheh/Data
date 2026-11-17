@@ -566,6 +566,13 @@
             "plan": "1 Month",
             "approved_date": "2026-11-16",
             "expiry_date": "2026-12-16"
+        },
+        {
+            "key": "21C8ECCE831DB6E6584E1892F751EACE0BF71FCB7C5C69D0544DE958504C1483",
+            "name": "Eftekhar",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-17",
+            "expiry_date": "2026-11-20"
         }
     ],
     "expired_history": {

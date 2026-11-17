@@ -608,6 +608,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-17",
             "expiry_date": "2026-11-20"
+        },
+        {
+            "key": "B31ADF695D43CB6119BF90AD8FBBC113D5029246354603E0AF699321B84BE7E4",
+            "name": "Rifat",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-17",
+            "expiry_date": "2026-11-20"
         }
     ],
     "expired_history": {

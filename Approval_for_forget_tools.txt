@@ -580,6 +580,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-17",
             "expiry_date": "2026-11-20"
+        },
+        {
+            "key": "99814D430D0B148E7826DAA17FCB6593001F659E0671EFB57EE8F9A938A719A2",
+            "name": "Sagor",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-17",
+            "expiry_date": "2026-11-20"
         }
     ],
     "expired_history": {

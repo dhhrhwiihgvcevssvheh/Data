@@ -594,6 +594,13 @@
             "plan": "Lifetime",
             "approved_date": "2026-11-17",
             "expiry_date": "Lifetime"
+        },
+        {
+            "key": "5660C7E8AA7C5A3D9E02433965D73EB5D2F42B905AC1EA22F4AD059C004AD9B1",
+            "name": "abir developar",
+            "plan": "Custom (40 Days)",
+            "approved_date": "2026-11-17",
+            "expiry_date": "2026-12-27"
         }
     ],
     "expired_history": {

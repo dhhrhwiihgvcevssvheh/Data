@@ -587,6 +587,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-17",
             "expiry_date": "2026-11-20"
+        },
+        {
+            "key": "414BE31E713C2D34B5FED8055F32EC6C7B9D2B71B307346BE2462FFABDC68F9D",
+            "name": "Admin Hasibul",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-17",
+            "expiry_date": "Lifetime"
         }
     ],
     "expired_history": {

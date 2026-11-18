@@ -622,6 +622,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-17",
             "expiry_date": "2026-11-20"
+        },
+        {
+            "key": "1FC64FC1987A73491FD84805388514034C442E8AD1B09885B74D3975D658E27E",
+            "name": "Pappu Vai",
+            "plan": "Lifetime",
+            "approved_date": "2026-11-18",
+            "expiry_date": "Lifetime"
         }
     ],
     "expired_history": {

@@ -636,6 +636,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-18",
             "expiry_date": "2026-11-21"
+        },
+        {
+            "key": "7944AA7FD946B0BF4E948103691FE9240410FF6D8C6C12C83B2F99EF0B0ABF09",
+            "name": "Zarif",
+            "plan": "1 Month",
+            "approved_date": "2026-11-18",
+            "expiry_date": "2026-12-18"
         }
     ],
     "expired_history": {

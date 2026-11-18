@@ -622,6 +622,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-17",
             "expiry_date": "2026-11-20"
+        },
+        {
+            "key": "2BCECEFC35226ED9D256705A2296EA04C46CCC1731A7D1EE102E81478546738B",
+            "name": "Sayod",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-18",
+            "expiry_date": "2026-11-21"
         }
     ],
     "expired_history": {

@@ -629,6 +629,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-18",
             "expiry_date": "2026-11-21"
+        },
+        {
+            "key": "059652BB5AB9213BA0EA4072CDA40941648592F09F46C1A90676F477E682A6AC",
+            "name": "Naruto",
+            "plan": "1 Month",
+            "approved_date": "2026-11-18",
+            "expiry_date": "2026-12-18"
         }
     ],
     "expired_history": {

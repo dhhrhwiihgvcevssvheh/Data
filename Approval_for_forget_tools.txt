@@ -650,6 +650,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-19",
             "expiry_date": "2026-11-22"
+        },
+        {
+            "key": "E6968CEAB37AD345CE0F0B90F13C5999962CF345B71E3D7EED4624F4859664BC",
+            "name": "Permanent",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-19",
+            "expiry_date": "2026-11-22"
         }
     ],
     "expired_history": {

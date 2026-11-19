@@ -470,13 +470,6 @@
             "expiry_date": "2026-11-19"
         },
         {
-            "key": "84291C0E394A7FD3F88CCADB6F7882CA133A92F32A0744E370D2A2D9E667E95E",
-            "name": "kmithu",
-            "plan": "1 Month",
-            "approved_date": "2026-10-18",
-            "expiry_date": "2026-11-18"
-        },
-        {
             "key": "E30ED570EE7A9E3DDF995454ECE205F5C0CDE28B48A5B218A8BAE11C9E19404D",
             "name": "Erfanuir Rahman Shakib",
             "plan": "1 Month",
@@ -648,6 +641,7 @@
     "expired_history": {
         "2026-11-13": 2,
         "2026-11-14": 3,
-        "2026-11-15": 2
+        "2026-11-15": 2,
+        "2026-11-18": 1
     }
 }

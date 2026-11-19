@@ -657,6 +657,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-19",
             "expiry_date": "2026-11-22"
+        },
+        {
+            "key": "02ABE1D299AD4F5BEFBE4E8923734C4A6440CCEE79F1A5AE684404B7904B5902",
+            "name": "Zayaan",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-19",
+            "expiry_date": "2026-11-22"
         }
     ],
     "expired_history": {

@@ -629,13 +629,6 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-20",
             "expiry_date": "2026-11-23"
-        },
-        {
-            "key": "78FFBF6C2DD2E1236FCA13B3221C126EC27FAD39621E9A8D1B766EB3A0698546",
-            "name": "Monir",
-            "plan": "1 Month",
-            "approved_date": "2026-11-20",
-            "expiry_date": "2026-12-20"
         }
     ],
     "expired_history": {

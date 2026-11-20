@@ -594,6 +594,13 @@
             "plan": "Lifetime",
             "approved_date": "2026-11-19",
             "expiry_date": "Lifetime"
+        },
+        {
+            "key": "B58AF238018F501FA21F17AFD690C08BAA534AA2822F0DFE3C56D2BD5848FE9F",
+            "name": "@sadibsheikh",
+            "plan": "Custom (9 Days)",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-11-29"
         }
     ],
     "expired_history": {

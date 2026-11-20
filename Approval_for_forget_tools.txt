@@ -601,6 +601,13 @@
             "plan": "Custom (9 Days)",
             "approved_date": "2026-11-20",
             "expiry_date": "2026-11-29"
+        },
+        {
+            "key": "C3C5BCEB967CC59FCC4A53DA79468543091986672F36A9599803982F1D66CA16",
+            "name": "ARIF deu",
+            "plan": "1 Month",
+            "approved_date": "2026-11-20",
+            "expiry_date": "2026-12-20"
         }
     ],
     "expired_history": {

@@ -601,6 +601,13 @@
             "plan": "1 Month",
             "approved_date": "2026-11-21",
             "expiry_date": "2026-12-21"
+        },
+        {
+            "key": "FD64295C475612A96DA35E92108B198DF8996C9FA76AED380E16D9223797AB61",
+            "name": "Zarif laptop",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-21",
+            "expiry_date": "2026-11-24"
         }
     ],
     "expired_history": {

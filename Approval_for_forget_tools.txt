@@ -594,6 +594,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-20",
             "expiry_date": "2026-11-23"
+        },
+        {
+            "key": "956BFDCEAA6F10C6240984BCBA3486F49276F269662351DD8F92CB57809E458F",
+            "name": "Abu Sayham 700 Due",
+            "plan": "1 Month",
+            "approved_date": "2026-11-21",
+            "expiry_date": "2026-12-21"
         }
     ],
     "expired_history": {

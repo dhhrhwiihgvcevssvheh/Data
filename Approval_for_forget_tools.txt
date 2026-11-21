@@ -477,27 +477,6 @@
             "expiry_date": "2026-12-16"
         },
         {
-            "key": "21C8ECCE831DB6E6584E1892F751EACE0BF71FCB7C5C69D0544DE958504C1483",
-            "name": "Eftekhar",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-17",
-            "expiry_date": "2026-11-20"
-        },
-        {
-            "key": "FD64295C475612A96DA35E92108B198DF8996C9FA76AED380E16D9223797AB61",
-            "name": "Rokon",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-17",
-            "expiry_date": "2026-11-20"
-        },
-        {
-            "key": "99814D430D0B148E7826DAA17FCB6593001F659E0671EFB57EE8F9A938A719A2",
-            "name": "Sagor",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-17",
-            "expiry_date": "2026-11-20"
-        },
-        {
             "key": "414BE31E713C2D34B5FED8055F32EC6C7B9D2B71B307346BE2462FFABDC68F9D",
             "name": "Admin Hasibul",
             "plan": "Lifetime",
@@ -510,27 +489,6 @@
             "plan": "Custom (40 Days)",
             "approved_date": "2026-11-17",
             "expiry_date": "2026-12-27"
-        },
-        {
-            "key": "A4DEE88489606528A8D2E63EE2E6D3E6F19B74FF130602BCE6F4493D47F62E6E",
-            "name": "Srabdon",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-17",
-            "expiry_date": "2026-11-20"
-        },
-        {
-            "key": "B31ADF695D43CB6119BF90AD8FBBC113D5029246354603E0AF699321B84BE7E4",
-            "name": "Rifat",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-17",
-            "expiry_date": "2026-11-20"
-        },
-        {
-            "key": "4D7BE954204BCB94E651CBF6BDB2BEFF2D62604CB66C5CE65AA26A3980638A2F",
-            "name": "Sagor",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-17",
-            "expiry_date": "2026-11-20"
         },
         {
             "key": "2BCECEFC35226ED9D256705A2296EA04C46CCC1731A7D1EE102E81478546738B",
@@ -643,6 +601,7 @@
         "2026-11-14": 3,
         "2026-11-15": 2,
         "2026-11-18": 1,
-        "2026-11-19": 11
+        "2026-11-19": 11,
+        "2026-11-20": 6
     }
 }

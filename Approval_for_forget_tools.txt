@@ -608,6 +608,13 @@
             "plan": "1 Month",
             "approved_date": "2026-11-22",
             "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "CC493256C4C581B71569EEFB637B7F48EBC6B23EAAD7CF4250B14856ABEAEDFB",
+            "name": "@KHADIMUL102",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-11-25"
         }
     ],
     "expired_history": {

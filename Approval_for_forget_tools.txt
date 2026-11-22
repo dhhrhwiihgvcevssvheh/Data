@@ -629,6 +629,13 @@
             "plan": "1 Month",
             "approved_date": "2026-11-22",
             "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "E1CDC22625F7F35DC128BFD1D077D55E7819250D1AD4E2E3FA40DC15257BBC15",
+            "name": "Farabi",
+            "plan": "1 Month",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-12-22"
         }
     ],
     "expired_history": {

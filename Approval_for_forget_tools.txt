@@ -636,6 +636,13 @@
             "plan": "1 Month",
             "approved_date": "2026-11-22",
             "expiry_date": "2026-12-22"
+        },
+        {
+            "key": "D4BE42F038F3804FF7739FE4216456861D3DF4F67AB9450A8315BC38557637ED",
+            "name": "Meheraz",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-11-25"
         }
     ],
     "expired_history": {

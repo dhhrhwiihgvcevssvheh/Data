@@ -615,6 +615,13 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-22",
             "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "8B8BBB89DB454ED2594E68F649050B2346CADFABF4E2B336095084DA950D0D64",
+            "name": "Rifat raisul",
+            "plan": "1 Month",
+            "approved_date": "2026-11-22",
+            "expiry_date": "2026-12-22"
         }
     ],
     "expired_history": {

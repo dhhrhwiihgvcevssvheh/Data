@@ -414,34 +414,6 @@
             "expiry_date": "2026-11-24"
         },
         {
-            "key": "F5E2A082B8CA28BF3115DA2EB180DBC2B21A76F766AF687716DF274222185E72",
-            "name": "SS shamim",
-            "plan": "1 Month",
-            "approved_date": "2026-10-22",
-            "expiry_date": "2026-11-22"
-        },
-        {
-            "key": "31CBEE99B08B9AD8842454636DB3597FEA87A943117ECFF8A21174E3CE118CB6",
-            "name": "akib jim",
-            "plan": "1 Month",
-            "approved_date": "2026-10-22",
-            "expiry_date": "2026-11-22"
-        },
-        {
-            "key": "CF10CB32304556B43A1458B48DC81728B3792C936DE4D62E8D65B4F54836ACA3",
-            "name": "@shezan990",
-            "plan": "1 Month",
-            "approved_date": "2026-10-22",
-            "expiry_date": "2026-11-22"
-        },
-        {
-            "key": "FD06AA7FF9A3AF524CEBC733C261BF326E8A1BD25C847E172AE273339B39591C",
-            "name": "ricky",
-            "plan": "1 Month",
-            "approved_date": "2026-10-22",
-            "expiry_date": "2026-11-22"
-        },
-        {
             "key": "E30ED570EE7A9E3DDF995454ECE205F5C0CDE28B48A5B218A8BAE11C9E19404D",
             "name": "Erfanuir Rahman Shakib",
             "plan": "1 Month",
@@ -496,34 +468,6 @@
             "plan": "1 Month",
             "approved_date": "2026-11-18",
             "expiry_date": "2026-12-18"
-        },
-        {
-            "key": "384724AA4FA8A6E8775171234A51B52C7D4D68C62F70F601FE0BCF4658657290",
-            "name": "Mehedi",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-19",
-            "expiry_date": "2026-11-22"
-        },
-        {
-            "key": "59ABC962F1DD2AE9D5717FA65CDA9EE076C5D2EAA1B93601D6187B9A49A2D731",
-            "name": "Fehad",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-19",
-            "expiry_date": "2026-11-22"
-        },
-        {
-            "key": "E6968CEAB37AD345CE0F0B90F13C5999962CF345B71E3D7EED4624F4859664BC",
-            "name": "Permanent",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-19",
-            "expiry_date": "2026-11-22"
-        },
-        {
-            "key": "02ABE1D299AD4F5BEFBE4E8923734C4A6440CCEE79F1A5AE684404B7904B5902",
-            "name": "Zayaan",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-19",
-            "expiry_date": "2026-11-22"
         },
         {
             "key": "7395AF34727B8A6D583A87B5768FF54FB2BD4FC57FBA06B2FF89CFCFC1783723",
@@ -673,6 +617,7 @@
         "2026-11-18": 1,
         "2026-11-19": 11,
         "2026-11-20": 6,
-        "2026-11-21": 2
+        "2026-11-21": 2,
+        "2026-11-22": 8
     }
 }

@@ -498,34 +498,6 @@
             "expiry_date": "2026-12-20"
         },
         {
-            "key": "1035510355C7561006NUJUHT1SMPPu0_a355",
-            "name": "Ashok lama (phone)",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-20",
-            "expiry_date": "2026-11-23"
-        },
-        {
-            "key": "103031030374702122TCODEW1SMPPu0_a303",
-            "name": "imran crack",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-20",
-            "expiry_date": "2026-11-23"
-        },
-        {
-            "key": "1030510305C7561006NUJUHT1SMPPu0_a305",
-            "name": "Sayod",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-20",
-            "expiry_date": "2026-11-23"
-        },
-        {
-            "key": "78FFBF6C2DD2E1236FCA13B3221C126EC27FAD39621E9A8D1B766EB3A0698546",
-            "name": "Monir",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-20",
-            "expiry_date": "2026-11-23"
-        },
-        {
             "key": "956BFDCEAA6F10C6240984BCBA3486F49276F269662351DD8F92CB57809E458F",
             "name": "Abu Sayham 700 Due",
             "plan": "1 Month",
@@ -596,13 +568,6 @@
             "expiry_date": "2026-12-22"
         },
         {
-            "key": "1529BF9FA4BB36868D1F4F6882F3F2C9A3D2160357C660DAC950698307946297",
-            "name": "Srk",
-            "plan": "Custom (1 Days)",
-            "approved_date": "2026-11-22",
-            "expiry_date": "2026-11-23"
-        },
-        {
             "key": "649CD43CCB0E1E5DEDC9FBB768B87FB57B007E6C1E6D1B9BDED4EDED99F38DE1",
             "name": "Maisha",
             "plan": "Trial (3 Days)",
@@ -618,6 +583,7 @@
         "2026-11-19": 11,
         "2026-11-20": 6,
         "2026-11-21": 2,
-        "2026-11-22": 8
+        "2026-11-22": 8,
+        "2026-11-23": 5
     }
 }

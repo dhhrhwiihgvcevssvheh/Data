@@ -594,6 +594,13 @@
             "plan": "Custom (1 Days)",
             "approved_date": "2026-11-24",
             "expiry_date": "2026-11-25"
+        },
+        {
+            "key": "02537C357C7C802585BDD084C03DB691AA0C697715A666C12A6D9315D87CD115",
+            "name": "Mehedi",
+            "plan": "1 Month",
+            "approved_date": "2026-11-24",
+            "expiry_date": "2026-12-24"
         }
     ],
     "expired_history": {

@@ -561,13 +561,6 @@
             "expiry_date": "2026-11-25"
         },
         {
-            "key": "3E8C09A98B43AFEF5CB15994CC37AD9C8B2890E3C006A4515883C5F0EC84C6FA",
-            "name": "Arman sarker",
-            "plan": "1 Month",
-            "approved_date": "2026-11-22",
-            "expiry_date": "2026-12-22"
-        },
-        {
             "key": "649CD43CCB0E1E5DEDC9FBB768B87FB57B007E6C1E6D1B9BDED4EDED99F38DE1",
             "name": "Maisha",
             "plan": "Trial (3 Days)",

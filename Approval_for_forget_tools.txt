@@ -580,6 +580,13 @@
             "plan": "1 Month",
             "approved_date": "2026-11-24",
             "expiry_date": "2026-12-24"
+        },
+        {
+            "key": "CDDAE873C405140638212EC66BF0D78C786B77CC0EC2E2F185A052A0E437DEF5",
+            "name": "Arosil",
+            "plan": "Trial (3 Days)",
+            "approved_date": "2026-11-24",
+            "expiry_date": "2026-11-27"
         }
     ],
     "expired_history": {

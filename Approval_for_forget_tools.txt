@@ -393,27 +393,6 @@
             "expiry_date": "2026-11-25"
         },
         {
-            "key": "06C0A38204B41DEF47BD875CEF6C6F0A5A9A0B62A684FAC5BA5421720D1C258E",
-            "name": "rohan",
-            "plan": "1 Month",
-            "approved_date": "2026-10-24",
-            "expiry_date": "2026-11-24"
-        },
-        {
-            "key": "51C2A6C3EA0FB92DEED79CBFE380347E75EED418B100E3107F21C24B49C37D51",
-            "name": "unknown",
-            "plan": "1 Month",
-            "approved_date": "2026-10-24",
-            "expiry_date": "2026-11-24"
-        },
-        {
-            "key": "748BE82AA6BF497B5533738F696BE4AE4DE8C295628C00B7830A7E3FCA753D18",
-            "name": "mahfuzer",
-            "plan": "1 Month",
-            "approved_date": "2026-10-24",
-            "expiry_date": "2026-11-24"
-        },
-        {
             "key": "E30ED570EE7A9E3DDF995454ECE205F5C0CDE28B48A5B218A8BAE11C9E19404D",
             "name": "Erfanuir Rahman Shakib",
             "plan": "1 Month",
@@ -503,13 +482,6 @@
             "plan": "1 Month",
             "approved_date": "2026-11-21",
             "expiry_date": "2026-12-21"
-        },
-        {
-            "key": "FD64295C475612A96DA35E92108B198DF8996C9FA76AED380E16D9223797AB61",
-            "name": "Zarif laptop",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-21",
-            "expiry_date": "2026-11-24"
         },
         {
             "key": "C6246D7BCF443BF505030B54884F851F7D8AD52043955CD220217E086D06234C",
@@ -612,6 +584,7 @@
         "2026-11-20": 6,
         "2026-11-21": 2,
         "2026-11-22": 8,
-        "2026-11-23": 5
+        "2026-11-23": 5,
+        "2026-11-24": 4
     }
 }

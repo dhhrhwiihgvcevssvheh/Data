@@ -365,34 +365,6 @@
             "expiry_date": "2026-11-26"
         },
         {
-            "key": "00ECD493CAE8A324C103FB800BF81D8473CB399BEFA84F746468F84DCA8F6442",
-            "name": "mehedi",
-            "plan": "1 Month",
-            "approved_date": "2026-10-25",
-            "expiry_date": "2026-11-25"
-        },
-        {
-            "key": "DA2308D0B974AC10F48B450AAEB00083CE8350CDA1BFDF4C9554D3FEEDD3E41B",
-            "name": "alomgir",
-            "plan": "1 Month",
-            "approved_date": "2026-10-25",
-            "expiry_date": "2026-11-25"
-        },
-        {
-            "key": "3B30CBB6900E5DCB5276F95B2E23E876979B901FBD96C1F03269EDDFD53675FB",
-            "name": "rajon",
-            "plan": "1 Month",
-            "approved_date": "2026-10-25",
-            "expiry_date": "2026-11-25"
-        },
-        {
-            "key": "5A34979C510258E0AA513F8031F12E15EFC2F6828A482FA3E5618687E855E910",
-            "name": "ovhi",
-            "plan": "1 Month",
-            "approved_date": "2026-10-25",
-            "expiry_date": "2026-11-25"
-        },
-        {
             "key": "E30ED570EE7A9E3DDF995454ECE205F5C0CDE28B48A5B218A8BAE11C9E19404D",
             "name": "Erfanuir Rahman Shakib",
             "plan": "1 Month",
@@ -484,25 +456,11 @@
             "expiry_date": "2026-12-21"
         },
         {
-            "key": "C6246D7BCF443BF505030B54884F851F7D8AD52043955CD220217E086D06234C",
-            "name": "Raju",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-22",
-            "expiry_date": "2026-11-25"
-        },
-        {
             "key": "D27360C8A2AA5A4DC85D2AD6DA8F59518A0587D61A8A2B115622564FED9F6681",
             "name": "Nisad due",
             "plan": "1 Month",
             "approved_date": "2026-11-22",
             "expiry_date": "2026-12-22"
-        },
-        {
-            "key": "CC493256C4C581B71569EEFB637B7F48EBC6B23EAAD7CF4250B14856ABEAEDFB",
-            "name": "@KHADIMUL102",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-22",
-            "expiry_date": "2026-11-25"
         },
         {
             "key": "8B8BBB89DB454ED2594E68F649050B2346CADFABF4E2B336095084DA950D0D64",
@@ -517,20 +475,6 @@
             "plan": "1 Month",
             "approved_date": "2026-11-22",
             "expiry_date": "2026-12-22"
-        },
-        {
-            "key": "D4BE42F038F3804FF7739FE4216456861D3DF4F67AB9450A8315BC38557637ED",
-            "name": "Meheraz",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-22",
-            "expiry_date": "2026-11-25"
-        },
-        {
-            "key": "649CD43CCB0E1E5DEDC9FBB768B87FB57B007E6C1E6D1B9BDED4EDED99F38DE1",
-            "name": "Maisha",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-22",
-            "expiry_date": "2026-11-25"
         },
         {
             "key": "2D860B7E346F07FC9354BCB31937058A45AEE672B4575A550F45FA8211F91D3D",
@@ -552,13 +496,6 @@
             "plan": "Trial (3 Days)",
             "approved_date": "2026-11-24",
             "expiry_date": "2026-11-27"
-        },
-        {
-            "key": "78FFBF6C2DD2E1236FCA13B3221C126EC27FAD39621E9A8D1B766EB3A0698546",
-            "name": "Imran",
-            "plan": "Custom (1 Days)",
-            "approved_date": "2026-11-24",
-            "expiry_date": "2026-11-25"
         },
         {
             "key": "02537C357C7C802585BDD084C03DB691AA0C697715A666C12A6D9315D87CD115",
@@ -585,6 +522,7 @@
         "2026-11-21": 2,
         "2026-11-22": 8,
         "2026-11-23": 5,
-        "2026-11-24": 4
+        "2026-11-24": 4,
+        "2026-11-25": 9
     }
 }

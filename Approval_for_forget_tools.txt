@@ -471,7 +471,7 @@
         },
         {
             "key": "2D860B7E346F07FC9354BCB31937058A45AEE672B4575A550F45FA8211F91D3D",
-            "name": "Bappy due",
+            "name": "Bappy",
             "plan": "1 Month",
             "approved_date": "2026-11-24",
             "expiry_date": "2026-12-24"

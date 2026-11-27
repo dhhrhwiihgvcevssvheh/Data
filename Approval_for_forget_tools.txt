@@ -450,7 +450,7 @@
         },
         {
             "key": "D27360C8A2AA5A4DC85D2AD6DA8F59518A0587D61A8A2B115622564FED9F6681",
-            "name": "Nisad due",
+            "name": "Nisad",
             "plan": "1 Month",
             "approved_date": "2026-11-22",
             "expiry_date": "2026-12-22"

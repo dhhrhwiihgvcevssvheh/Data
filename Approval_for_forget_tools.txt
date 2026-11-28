@@ -330,34 +330,6 @@
             "expiry_date": "2026-11-28"
         },
         {
-            "key": "8BF1560F7B73D1E8AC543FBD670838DC61D1A87C4F2735ED577A945ECC283DE0",
-            "name": "mithun",
-            "plan": "1 Month",
-            "approved_date": "2026-10-27",
-            "expiry_date": "2026-11-27"
-        },
-        {
-            "key": "139887900765613A10EA7D618B7BC4D459E2028AE2DF8537C222AAC7DAFADEF5",
-            "name": "sagor",
-            "plan": "1 Month",
-            "approved_date": "2026-10-27",
-            "expiry_date": "2026-11-27"
-        },
-        {
-            "key": "D48DB8752DA7C10DC9494992FD7DDBC386A6E1CF94120254874FBDEA672A6D05",
-            "name": "tusar",
-            "plan": "1 Month",
-            "approved_date": "2026-10-27",
-            "expiry_date": "2026-11-27"
-        },
-        {
-            "key": "387FBBB6DF0B86D01A686159461DD614ECF34FDF4DD35CF1519F45985C43870F",
-            "name": "rohan",
-            "plan": "1 Month",
-            "approved_date": "2026-10-27",
-            "expiry_date": "2026-11-27"
-        },
-        {
             "key": "E30ED570EE7A9E3DDF995454ECE205F5C0CDE28B48A5B218A8BAE11C9E19404D",
             "name": "Erfanuir Rahman Shakib",
             "plan": "1 Month",
@@ -484,13 +456,6 @@
             "expiry_date": "2026-12-24"
         },
         {
-            "key": "CDDAE873C405140638212EC66BF0D78C786B77CC0EC2E2F185A052A0E437DEF5",
-            "name": "Arosil",
-            "plan": "Trial (3 Days)",
-            "approved_date": "2026-11-24",
-            "expiry_date": "2026-11-27"
-        },
-        {
             "key": "02537C357C7C802585BDD084C03DB691AA0C697715A666C12A6D9315D87CD115",
             "name": "Mehedi",
             "plan": "1 Month",
@@ -517,6 +482,7 @@
         "2026-11-23": 5,
         "2026-11-24": 4,
         "2026-11-25": 9,
-        "2026-11-26": 1
+        "2026-11-26": 1,
+        "2026-11-27": 5
     }
 }
